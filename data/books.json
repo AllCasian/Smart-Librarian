@@ -1,0 +1,182 @@
+[
+  {
+    "id": "book-001",
+    "title": "1984",
+    "author": "George Orwell",
+    "short_summary": "A dystopian novel about a totalitarian society controlled through constant surveillance, propaganda and manipulation of truth. The story explores freedom, political oppression, censorship and individual resistance.",
+    "full_summary": "Winston Smith lives in Oceania, a totalitarian state ruled by the Party and its symbolic leader, Big Brother. Citizens are constantly monitored, history is rewritten, and independent thought is treated as a crime. Winston secretly begins to question the regime and searches for truth, personal freedom and genuine human connection. His rebellion brings him into direct conflict with a system designed to control not only people's actions, but also their memories, language and thoughts.",
+    "themes": [
+      "freedom",
+      "surveillance",
+      "totalitarianism",
+      "propaganda",
+      "political control",
+      "truth"
+    ]
+  },
+  {
+    "id": "book-002",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "short_summary": "A fantasy adventure about Bilbo Baggins, who leaves his comfortable home to join a dangerous journey. The story focuses on magic, courage, friendship, personal growth and discovery.",
+    "full_summary": "Bilbo Baggins is a quiet hobbit who enjoys a comfortable and predictable life. His routine changes when the wizard Gandalf and a group of dwarves invite him on a quest to reclaim their homeland and treasure from the dragon Smaug. During the journey, Bilbo encounters trolls, goblins, elves, giant spiders and a mysterious creature named Gollum. Although he initially doubts his abilities, Bilbo gradually discovers courage, intelligence and loyalty that he did not know he possessed.",
+    "themes": [
+      "magic",
+      "friendship",
+      "adventure",
+      "courage",
+      "personal growth",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "book-003",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "short_summary": "A young orphan discovers that he is a wizard and begins studying at a magical school. The novel explores friendship, belonging, courage, mystery and the conflict between good and evil.",
+    "full_summary": "Harry Potter grows up neglected by his relatives and knows very little about his parents. On his eleventh birthday, he learns that he is a wizard and receives an invitation to attend Hogwarts School of Witchcraft and Wizardry. There he becomes close friends with Ron Weasley and Hermione Granger, learns about magic and discovers the truth about his past. Together, the three friends investigate a mystery involving a powerful magical object and confront a threat connected to the dark wizard who killed Harry's parents.",
+    "themes": [
+      "magic",
+      "friendship",
+      "school",
+      "courage",
+      "belonging",
+      "good versus evil"
+    ]
+  },
+  {
+    "id": "book-004",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "short_summary": "A dystopian novel set in a society where books are forbidden and burned. It explores censorship, conformity, knowledge, media manipulation and the importance of independent thought.",
+    "full_summary": "Guy Montag works as a fireman in a future society where firemen burn books instead of extinguishing fires. He initially accepts the rules of his world, which encourages entertainment, speed and conformity while discouraging reflection. After meeting a curious young woman and witnessing the consequences of censorship, Montag begins to question his profession and the values of society. His growing interest in books forces him to choose between obedience and intellectual freedom.",
+    "themes": [
+      "censorship",
+      "knowledge",
+      "freedom",
+      "conformity",
+      "media",
+      "independent thought"
+    ]
+  },
+  {
+    "id": "book-005",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "short_summary": "A historical novel about a young girl living in Nazi Germany who finds comfort in books and words. It examines war, friendship, loss, courage and the power of storytelling.",
+    "full_summary": "Liesel Meminger is sent to live with foster parents in Nazi Germany during the Second World War. As she learns to read, books become a source of comfort and resistance in a world shaped by fear, violence and propaganda. She forms a deep friendship with Rudy Steiner and develops a close bond with Max, a Jewish man hidden by her foster family. Narrated by Death, the story shows how words can be used both to manipulate societies and to preserve humanity.",
+    "themes": [
+      "war",
+      "friendship",
+      "books",
+      "loss",
+      "courage",
+      "Nazi Germany"
+    ]
+  },
+  {
+    "id": "book-006",
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque",
+    "short_summary": "A powerful anti-war novel following young German soldiers during the First World War. It explores trauma, comradeship, survival, disillusionment and the devastating effects of combat.",
+    "full_summary": "Paul Bäumer and his classmates enlist in the German army after being encouraged by patriotic speeches. Once they reach the Western Front, their idealistic expectations are destroyed by hunger, fear, injury and death. Paul relies on the friendship of his fellow soldiers to survive, but gradually becomes emotionally separated from civilian life. The novel presents war not as a heroic adventure, but as an experience that damages an entire generation.",
+    "themes": [
+      "war",
+      "friendship",
+      "trauma",
+      "survival",
+      "disillusionment",
+      "World War I"
+    ]
+  },
+  {
+    "id": "book-007",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "short_summary": "A romantic novel about Elizabeth Bennet and Mr Darcy, whose first impressions and personal pride create conflict. It explores love, family, social class, prejudice and personal growth.",
+    "full_summary": "Elizabeth Bennet is intelligent, independent and skeptical of social expectations surrounding marriage. She initially dislikes the wealthy and reserved Mr Darcy, considering him arrogant, while Darcy struggles with his own pride and assumptions about Elizabeth's family. Through misunderstandings, family difficulties and gradual self-reflection, both characters begin to recognize their mistakes. Their developing relationship becomes a study of love, maturity and the dangers of judging others too quickly.",
+    "themes": [
+      "love",
+      "romance",
+      "family",
+      "social class",
+      "prejudice",
+      "personal growth"
+    ]
+  },
+  {
+    "id": "book-008",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "short_summary": "A philosophical story about a young prince travelling between planets and learning about love, loneliness and human nature. It explores friendship, responsibility, imagination and what truly matters in life.",
+    "full_summary": "A pilot stranded in the desert meets a mysterious young prince who has travelled from a small asteroid. The prince describes the people and worlds he encountered during his journey, including adults obsessed with authority, wealth and admiration. His relationship with a rose and his meeting with a fox teach him important lessons about love, friendship and responsibility. Although written as a children's story, the book reflects deeply on loneliness, adulthood and the value of seeing beyond appearances.",
+    "themes": [
+      "friendship",
+      "love",
+      "loneliness",
+      "responsibility",
+      "imagination",
+      "human nature"
+    ]
+  },
+  {
+    "id": "book-009",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "short_summary": "A young shepherd travels in search of a treasure and learns to follow his personal dream. The story explores destiny, courage, spirituality, perseverance and self-discovery.",
+    "full_summary": "Santiago, a shepherd from Spain, repeatedly dreams about a treasure near the Egyptian pyramids. Encouraged to follow his Personal Legend, he leaves his familiar life and travels across North Africa. Along the way, he experiences loss, work, love and danger, while meeting people who help him understand fear, choice and purpose. His journey becomes less about material treasure and more about learning to recognize opportunity and trust his own path.",
+    "themes": [
+      "destiny",
+      "self-discovery",
+      "adventure",
+      "spirituality",
+      "courage",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "book-010",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "short_summary": "A dystopian novel about a technologically advanced society that maintains stability through conditioning, consumption and artificial happiness. It explores freedom, identity, technology and social control.",
+    "full_summary": "In the World State, people are genetically engineered, psychologically conditioned and assigned predetermined social roles. Conflict and suffering are reduced through entertainment, consumption and a happiness-producing drug called soma. Bernard Marx feels uncomfortable with the system and brings John, a man raised outside this society, into the controlled world. John's values and emotions expose the cost of a society that has sacrificed freedom, individuality and meaningful human experience for stability.",
+    "themes": [
+      "social control",
+      "technology",
+      "freedom",
+      "identity",
+      "consumerism",
+      "artificial happiness"
+    ]
+  },
+  {
+    "id": "book-011",
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "short_summary": "Four siblings enter a magical world trapped in an endless winter and join a struggle against an evil ruler. The story explores bravery, friendship, sacrifice, loyalty and hope.",
+    "full_summary": "Peter, Susan, Edmund and Lucy Pevensie discover the magical land of Narnia through an old wardrobe. Narnia is ruled by the White Witch, who has created an endless winter. The children become involved in the resistance led by the lion Aslan, but Edmund's betrayal places everyone in danger. Through sacrifice, forgiveness and courage, the siblings help fight for the restoration of Narnia.",
+    "themes": [
+      "magic",
+      "friendship",
+      "sacrifice",
+      "courage",
+      "loyalty",
+      "fantasy"
+    ]
+  },
+  {
+    "id": "book-012",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "short_summary": "A coming-of-age novel set in the American South, where a lawyer defends a Black man falsely accused of a crime. It explores justice, racism, empathy, morality and childhood.",
+    "full_summary": "Scout Finch grows up in a small Southern town with her brother Jem and their father, Atticus. Atticus is appointed to defend Tom Robinson, a Black man falsely accused of assaulting a white woman. As the trial divides the community, Scout and Jem witness prejudice, cruelty and moral courage. Through their experiences, they begin to understand the importance of empathy and the difficulty of defending justice in an unjust society.",
+    "themes": [
+      "justice",
+      "racism",
+      "empathy",
+      "morality",
+      "childhood",
+      "courage"
+    ]
+  }
+]
